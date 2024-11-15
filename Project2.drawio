@@ -1,0 +1,112 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="Page-1" id="f1b7ffb7-ca1e-a977-7cf5-a751b3c06c05">
+    <mxGraphModel dx="2074" dy="1132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pGjm1OLqjLqJjRjzD3bJ-61" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="160" y="240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pGjm1OLqjLqJjRjzD3bJ-62" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="1151" as="sourcePoint" />
+            <mxPoint x="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pGjm1OLqjLqJjRjzD3bJ-63" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="590" as="sourcePoint" />
+            <mxPoint x="820" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pGjm1OLqjLqJjRjzD3bJ-64" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/material-core/18/search-128.png" vertex="1" parent="1">
+          <mxGeometry x="180" y="260" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pGjm1OLqjLqJjRjzD3bJ-67" value="" style="shape=delay;whiteSpace=wrap;html=1;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="450" y="260" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pGjm1OLqjLqJjRjzD3bJ-68" value="" style="shape=delay;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="260" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pGjm1OLqjLqJjRjzD3bJ-69" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="710" y="265" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pGjm1OLqjLqJjRjzD3bJ-71" value="" style="shape=mxgraph.sysml.x;" vertex="1" parent="1">
+          <mxGeometry x="720" y="275" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pGjm1OLqjLqJjRjzD3bJ-72" value="Type here..." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="275" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pGjm1OLqjLqJjRjzD3bJ-73" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pGjm1OLqjLqJjRjzD3bJ-61" target="pGjm1OLqjLqJjRjzD3bJ-67">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="590" as="sourcePoint" />
+            <mxPoint x="440" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pGjm1OLqjLqJjRjzD3bJ-74" value="******click me" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="210" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pGjm1OLqjLqJjRjzD3bJ-75" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.404;exitY=-0.033;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="pGjm1OLqjLqJjRjzD3bJ-67">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="590" as="sourcePoint" />
+            <mxPoint x="600" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pGjm1OLqjLqJjRjzD3bJ-76" value="" style="shape=delay;whiteSpace=wrap;html=1;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="413" y="610" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pGjm1OLqjLqJjRjzD3bJ-77" value="" style="shape=delay;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="663" y="610" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pGjm1OLqjLqJjRjzD3bJ-78" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="678" y="615" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pGjm1OLqjLqJjRjzD3bJ-82" value="" style="shape=mxgraph.sysml.x;" vertex="1" parent="1">
+          <mxGeometry x="720" y="275" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pGjm1OLqjLqJjRjzD3bJ-84" value="" style="shape=mxgraph.sysml.x;" vertex="1" parent="1">
+          <mxGeometry x="690" y="625" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pGjm1OLqjLqJjRjzD3bJ-85" value="Food" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="625" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pGjm1OLqjLqJjRjzD3bJ-86" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="710" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="pGjm1OLqjLqJjRjzD3bJ-87" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="543" y="870" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="pGjm1OLqjLqJjRjzD3bJ-88" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="413" y="870" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="pGjm1OLqjLqJjRjzD3bJ-89" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="543" y="710" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="pGjm1OLqjLqJjRjzD3bJ-90" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="710" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="pGjm1OLqjLqJjRjzD3bJ-91" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1020" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="pGjm1OLqjLqJjRjzD3bJ-92" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="678" y="870" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="pGjm1OLqjLqJjRjzD3bJ-93" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="1020" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="pGjm1OLqjLqJjRjzD3bJ-94" value="****food gifs" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="680" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pGjm1OLqjLqJjRjzD3bJ-95" value="*****press enter" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="320" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pGjm1OLqjLqJjRjzD3bJ-98" value="User Stories:&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;As a content consumer, i would like to quickly find gifs to send my friends so that we can have a good laugh.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;As a media director, i want to quickly find and search gifs to send in the company group chat so that i can get the team started with positivity and motivation.&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="610" width="350" height="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
